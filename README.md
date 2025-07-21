@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tirupathi007
+- 👋 Hi, I’m @ Chinnala Tirupathi Rao
 - 👀 I’m interested in learning python for machine learning and data science related projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
